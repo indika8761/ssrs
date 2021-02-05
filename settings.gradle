@@ -1,0 +1,8 @@
+rootProject.name = 'ssrs'
+include 'ssrs-common'
+include 'ssrs-apigatway'
+include 'ssrs-service-registry'
+include 'ssrs-service-monitoring'
+include 'ssrs-student-service'
+include 'ssrs-classes-service'
+include 'ssrs-enrollment-service'
